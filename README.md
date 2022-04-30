@@ -11,11 +11,11 @@ we need to divide Arr into the minimum number of sequences such that each elemen
 Find the minimum number of valid sequences that Arr can be divided into.
 
 Test Cases:
- i)input: n=1, k=4, Arr = [5]
- output: 1
- description: Arr is [5] hence 1 sequence is enough which is [5].
-              Since there are no two adjacent elements.
-              Hence the answer is 1.
+ i)input: n=1, k=4, Arr = [5]<br />
+ output: 1<br />
+ description: Arr is [5] hence 1 sequence is enough which is [5].<br />
+              Since there are no two adjacent elements.<br />
+              Hence the answer is 1.<br />
               
  ii)input: n=2, k=2, Arr = [4,5]
  output: 2
