@@ -20,7 +20,7 @@ Test Cases:
  ii)input: n=2, k=2, Arr = [4,5]<br />
  output: 2<br />
  description: Arr is [4,5]<br />
-              We need 2 sequences [4], [5].<br />
+ &lt;             We need 2 sequences [4], [5].<br />
               It's not possible to have a single sequence because (4+5) is not divisible by 2.<br />
               Hence the answer is 2.<br />
  
